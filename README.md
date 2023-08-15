@@ -1,4 +1,4 @@
 # fuzzy-tribble
-a community recommender system
+a community recommender system, a service for Cardano Developer Portal. 
 
-The user inputs via a questionaire and the system outputs (recommends) a list of commmunities that are a good fit. 
+A orientation page: user fills a questionnaire and recommender returns a list of communities that fit their profile.
